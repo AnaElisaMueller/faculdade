@@ -7,7 +7,6 @@ class Disciplina extends Aluno  {
     public  $aluno; //object //class Aluno
 
  
-
     public function __construct( $nome, $CargaHoraria, $professor, $aluno)
     {
         $this->nome = $nome;
