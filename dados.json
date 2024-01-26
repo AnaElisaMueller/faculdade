@@ -1,0 +1,1 @@
+[{"nome":"ana","idade":19,"matricula":"m200","nota":[62,66]},{"nome":"fulano","idade":12,"matricula":"m12","nota":[66,10]},{"nome":"pedagogia","CargaHoraria":26,"professor":{"nome":"carlos","idade":10,"disciplina":[]},"aluno":{"nome":"ana","idade":19,"matricula":"m200","nota":[62,66]}},{"nome":"carlos","idade":10,"disciplina":[]}]
